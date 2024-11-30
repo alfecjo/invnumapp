@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/inverter_numero.dir/src/main.c.o -o inverter_numero 

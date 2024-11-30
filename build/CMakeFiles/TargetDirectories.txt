@@ -1,0 +1,3 @@
+/home/ubuntu/invnumapp/build/CMakeFiles/inverter_numero.dir
+/home/ubuntu/invnumapp/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/invnumapp/build/CMakeFiles/rebuild_cache.dir
