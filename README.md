@@ -38,3 +38,18 @@ Se você tiver o código compactado em um arquivo `.tar`, `.zip`, ou outro forma
   ```bash
   tar -xvzf arquivo.tar.gz
 
+- Compile o código fonte: Se você estiver compilando sem CMake, pode usar diretamente o gcc:
+  gcc -o inv src/main.c
+- Linkedição para gerar o executável a partir dos arquivos objeto:
+  gcc -o inv main.o
+- Execute o programa:
+  ./inv
+
+#### 2. Estrutura do Repo
+- .
+├── CMakeLists.txt       # Arquivo de configuração do CMake
+├── build                # Diretório de build gerado pelo CMake
+│   ├── Makefile         # Arquivo Makefile para compilação
+│   └── inverter_numero  # Executável gerado
+└── src
+    └── main.c           # Código fonte principal do programa
