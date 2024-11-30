@@ -1,4 +1,6 @@
-# 10.37M2-U3C2O12T-Tarefa
+# EMBARCATECH
+
+## 10.37M2-U3C2O12T-Tarefa
 
 ## Descrição do Problema
 
@@ -46,10 +48,5 @@ Se você tiver o código compactado em um arquivo `.tar`, `.zip`, ou outro forma
   ./inv
 
 #### 2. Estrutura do Repo
-- .
-├── CMakeLists.txt       # Arquivo de configuração do CMake
-├── build                # Diretório de build gerado pelo CMake
-│   ├── Makefile         # Arquivo Makefile para compilação
-│   └── inverter_numero  # Executável gerado
-└── src
-    └── main.c           # Código fonte principal do programa
+
+![Logo](000.jpg)
